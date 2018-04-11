@@ -1,0 +1,14 @@
+{
+  "name": "Summer of Data",
+  "short_name": "Summer of Data",
+  "lang": "en-US",
+  "start_url": "/",
+  "display": "minimal-ui",
+  "icons": [
+    {
+      "src": "SOD_logo.png",
+      "sizes": "192X192",
+      "type": "image/png"
+    }
+  ]
+}
